@@ -7,3 +7,4 @@ tiktoken
 altair
 langchain_google_genai
 google-generativeai
+langchain_community
